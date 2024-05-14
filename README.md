@@ -1,17 +1,14 @@
 <h1 align="center">Hi 👋, I'm Kaushila Thilakarathna</h1>
 <h3 align="center">A passionate full stack developer from Sri Lanka</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kaushila&label=Profile%20views&color=0e75b6&style=flat" alt="kaushila" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kaushila" alt="kaushila" /></a> </p>
 
 - 🌱 I’m currently learning **Flutter**
 
-- 💬 Ask me about **HTML CSS JavaScript ReactJS**
+- 💬 Ask me about-  **HTML CSS JavaScript ReactJS**
 
-- 📫 How to reach me **sachindanik@gmail.com**
+- 📫 How to reach me-  **sachindanik@gmail.com**
 
-- ⚡ Fun fact **Creatvity often thrives on eccentricity**
+- ⚡ Fun fact-  **Creatvity often thrives on eccentricity**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
